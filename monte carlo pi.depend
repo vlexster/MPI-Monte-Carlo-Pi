@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1449609528 source:c:\users\vlex\documents\cdb\monte carlo pi\monte carlo pi.c
+	<mpi.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
